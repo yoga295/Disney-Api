@@ -45,23 +45,6 @@ Proyek ini dirancang untuk membantu memahami:
 
 ---
 
-## 🖼️ Tampilan Aplikasi
-Berikut beberapa contoh tampilan aplikasi Disney Character Finder:
-
-### 🪄 Tampilan Utama
-Menampilkan kolom pencarian dan hasil karakter:
-![Main UI](https://raw.githubusercontent.com/yoga295/disney-finder/main/assets/screenshots/main-ui.png)
-
-### 📜 Hasil Pencarian
-Menampilkan informasi karakter beserta gambarnya:
-![Search Result](https://raw.githubusercontent.com/yoga295/disney-finder/main/assets/screenshots/result.png)
-
-### ⚠️ Notifikasi
-Menampilkan pesan jika karakter tidak ditemukan:
-![Not Found](https://raw.githubusercontent.com/yoga295/disney-finder/main/assets/screenshots/notfound.png)
-
----
-
 ## 🧠 Cara Kerja Program
 
 1. **User memasukkan nama karakter Disney** ke kolom pencarian.  
